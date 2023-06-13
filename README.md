@@ -1,2 +1,2 @@
-# chat-with-chatgpt-integrated
+# template-repository
  
